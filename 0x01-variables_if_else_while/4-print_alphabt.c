@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- * pints the alphabet in lowercase, except for q and e.
+ * main - pints the alphabet in lowercase, except for q and e.
+ * Return is 0 always
 */
 
 int main(void)

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main function prints all single digit numbers of base 10 starting from 0,
+ * main - function prints all single digit numbers of base 10 starting from 0,
  */
 int main(void)
 {

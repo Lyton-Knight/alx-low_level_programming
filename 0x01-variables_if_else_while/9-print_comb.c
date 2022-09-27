@@ -12,6 +12,7 @@ int main(void)
 	for (num = 0; num <= 9; num++)
 	{
 		putchar((num % 10) + '0');
+		// if the number equals 9 the below statements of puttin the space and a comma are terminated
 		if (num == 9)
 		continue;		
 		putchar(',');
